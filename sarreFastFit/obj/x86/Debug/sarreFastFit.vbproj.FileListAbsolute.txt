@@ -1,0 +1,104 @@
+N:\Computing\Year 2\Programming\ASSIGNMENT\sarreFastFit\sarreFastFit\bin\Debug\sarreFastFit.exe
+N:\Computing\Year 2\Programming\ASSIGNMENT\sarreFastFit\sarreFastFit\bin\Debug\sarreFastFit.pdb
+N:\Computing\Year 2\Programming\ASSIGNMENT\sarreFastFit\sarreFastFit\bin\Debug\sarreFastFit.xml
+N:\Computing\Year 2\Programming\ASSIGNMENT\sarreFastFit\sarreFastFit\obj\x86\Debug\ResolveAssemblyReference.cache
+N:\Computing\Year 2\Programming\ASSIGNMENT\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.sarreFastFit.resources
+N:\Computing\Year 2\Programming\ASSIGNMENT\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.Resources.resources
+N:\Computing\Year 2\Programming\ASSIGNMENT\sarreFastFit\sarreFastFit\obj\x86\Debug\GenerateResource.read.1.tlog
+N:\Computing\Year 2\Programming\ASSIGNMENT\sarreFastFit\sarreFastFit\obj\x86\Debug\GenerateResource.write.1.tlog
+N:\Computing\Year 2\Programming\ASSIGNMENT\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.exe
+N:\Computing\Year 2\Programming\ASSIGNMENT\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.xml
+N:\Computing\Year 2\Programming\ASSIGNMENT\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.pdb
+G:\UNI\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.exe
+G:\UNI\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.xml
+G:\UNI\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.pdb
+G:\UNI\sarreFastFit\sarreFastFit\bin\Debug\sarreFastFit.exe
+G:\UNI\sarreFastFit\sarreFastFit\bin\Debug\sarreFastFit.pdb
+G:\UNI\sarreFastFit\sarreFastFit\bin\Debug\sarreFastFit.xml
+G:\UNI\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.sarreFastFit.resources
+G:\UNI\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.Resources.resources
+G:\UNI\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.vbproj.GenerateResource.Cache
+E:\UNI\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.exe
+E:\UNI\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.xml
+E:\UNI\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.pdb
+E:\UNI\sarreFastFit\sarreFastFit\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\UNI\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.sarreFastFit.resources
+E:\UNI\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.Resources.resources
+E:\UNI\sarreFastFit\sarreFastFit\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\UNI\sarreFastFit\sarreFastFit\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\UNI\sarreFastFit\sarreFastFit\bin\Debug\sarreFastFit.exe
+E:\UNI\sarreFastFit\sarreFastFit\bin\Debug\sarreFastFit.pdb
+E:\UNI\sarreFastFit\sarreFastFit\bin\Debug\sarreFastFit.xml
+N:\Computing\Year 2\Programming\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.exe
+N:\Computing\Year 2\Programming\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.xml
+N:\Computing\Year 2\Programming\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.pdb
+E:\UNI\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.stockPage.resources
+N:\Computing\Year 2\Programming\sarreFastFit\sarreFastFit\bin\Debug\sarreFastFit.exe
+N:\Computing\Year 2\Programming\sarreFastFit\sarreFastFit\bin\Debug\sarreFastFit.pdb
+N:\Computing\Year 2\Programming\sarreFastFit\sarreFastFit\bin\Debug\sarreFastFit.xml
+N:\Computing\Year 2\Programming\sarreFastFit\sarreFastFit\obj\x86\Debug\ResolveAssemblyReference.cache
+N:\Computing\Year 2\Programming\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.sarreFastFit.resources
+N:\Computing\Year 2\Programming\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.Resources.resources
+N:\Computing\Year 2\Programming\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.stockPage.resources
+N:\Computing\Year 2\Programming\sarreFastFit\sarreFastFit\obj\x86\Debug\GenerateResource.read.1.tlog
+N:\Computing\Year 2\Programming\sarreFastFit\sarreFastFit\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\UNI\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.stockPage.resources
+G:\UNI\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.invoiceForm.resources
+E:\UNI\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.invoiceForm.resources
+E:\UNI\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.recallList.resources
+F:\UNI\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.exe
+F:\UNI\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.xml
+F:\UNI\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.pdb
+F:\UNI\sarreFastFit\sarreFastFit\bin\Debug\sarreFastFit.exe
+F:\UNI\sarreFastFit\sarreFastFit\bin\Debug\sarreFastFit.pdb
+F:\UNI\sarreFastFit\sarreFastFit\bin\Debug\sarreFastFit.xml
+F:\UNI\sarreFastFit\sarreFastFit\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\UNI\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.invoiceForm.resources
+F:\UNI\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.recallList.resources
+F:\UNI\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.sarreFastFit.resources
+F:\UNI\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.Resources.resources
+F:\UNI\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.stockPage.resources
+F:\UNI\sarreFastFit\sarreFastFit\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\UNI\sarreFastFit\sarreFastFit\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Luke\Desktop\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.exe
+C:\Users\Luke\Desktop\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.xml
+C:\Users\Luke\Desktop\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.pdb
+C:\Users\Luke\Desktop\sarreFastFit\sarreFastFit\bin\Debug\sarreFastFit.exe
+C:\Users\Luke\Desktop\sarreFastFit\sarreFastFit\bin\Debug\sarreFastFit.pdb
+C:\Users\Luke\Desktop\sarreFastFit\sarreFastFit\bin\Debug\sarreFastFit.xml
+C:\Users\Luke\Desktop\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.invoiceForm.resources
+C:\Users\Luke\Desktop\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.recallList.resources
+C:\Users\Luke\Desktop\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.sarreFastFit.resources
+C:\Users\Luke\Desktop\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.Resources.resources
+C:\Users\Luke\Desktop\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.stockPage.resources
+E:\PROGRAMMING 2 ASG\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.exe
+E:\PROGRAMMING 2 ASG\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.xml
+E:\PROGRAMMING 2 ASG\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.pdb
+E:\PROGRAMMING 2 ASG\sarreFastFit\sarreFastFit\bin\Debug\sarreFastFit.exe
+E:\PROGRAMMING 2 ASG\sarreFastFit\sarreFastFit\bin\Debug\sarreFastFit.pdb
+E:\PROGRAMMING 2 ASG\sarreFastFit\sarreFastFit\bin\Debug\sarreFastFit.xml
+E:\PROGRAMMING 2 ASG\sarreFastFit\sarreFastFit\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PROGRAMMING 2 ASG\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.invoiceForm.resources
+E:\PROGRAMMING 2 ASG\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.recallList.resources
+E:\PROGRAMMING 2 ASG\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.sarreFastFit.resources
+E:\PROGRAMMING 2 ASG\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.Resources.resources
+E:\PROGRAMMING 2 ASG\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.stockPage.resources
+E:\PROGRAMMING 2 ASG\sarreFastFit\sarreFastFit\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\PROGRAMMING 2 ASG\sarreFastFit\sarreFastFit\obj\x86\Debug\GenerateResource.write.1.tlog
+N:\Computing\Year 2\Programming\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.invoiceForm.resources
+N:\Computing\Year 2\Programming\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.recallList.resources
+E:\finishedY2\LukeCurtisProgramming1ASG\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.exe
+E:\finishedY2\LukeCurtisProgramming1ASG\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.xml
+E:\finishedY2\LukeCurtisProgramming1ASG\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.pdb
+E:\finishedY2\LukeCurtisProgramming1ASG\sarreFastFit\sarreFastFit\bin\Debug\sarreFastFit.exe
+E:\finishedY2\LukeCurtisProgramming1ASG\sarreFastFit\sarreFastFit\bin\Debug\sarreFastFit.pdb
+E:\finishedY2\LukeCurtisProgramming1ASG\sarreFastFit\sarreFastFit\bin\Debug\sarreFastFit.xml
+E:\finishedY2\LukeCurtisProgramming1ASG\sarreFastFit\sarreFastFit\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\finishedY2\LukeCurtisProgramming1ASG\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.invoiceForm.resources
+E:\finishedY2\LukeCurtisProgramming1ASG\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.recallList.resources
+E:\finishedY2\LukeCurtisProgramming1ASG\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.sarreFastFit.resources
+E:\finishedY2\LukeCurtisProgramming1ASG\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.Resources.resources
+E:\finishedY2\LukeCurtisProgramming1ASG\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.stockPage.resources
+E:\finishedY2\LukeCurtisProgramming1ASG\sarreFastFit\sarreFastFit\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\finishedY2\LukeCurtisProgramming1ASG\sarreFastFit\sarreFastFit\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Luke\Desktop\sarreFastFit\sarreFastFit\obj\x86\Debug\sarreFastFit.vbproj.GenerateResource.Cache
